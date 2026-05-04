@@ -11,12 +11,14 @@
     {
       "src": "https://via.placeholder.com/192x192/7c3aed/ffffff?text=TTT",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://via.placeholder.com/512x512/7c3aed/ffffff?text=TTT",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
